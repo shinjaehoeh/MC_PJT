@@ -1,0 +1,6 @@
+https://www.analyticsvidhya.com/blog/2020/04/5-amazing-google-colab-hacks-you-should-try-today/
+
+function KeepClicking(){
+   console.log("Clicking");
+   document.querySelector("colab-toolbar-button#connect").click()
+}setInterval(KeepClicking,60000)
