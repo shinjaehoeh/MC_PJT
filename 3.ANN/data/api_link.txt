@@ -1,0 +1,5 @@
+https://rapidapi.com/community/api/skate-ipsum/
+
+https://rapidapi.com/community/api/open-weather-map
+
+https://rapidapi.com/skyscanner/api/skyscanner-flight-search
